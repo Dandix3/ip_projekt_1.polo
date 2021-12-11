@@ -1,0 +1,36 @@
+th a {
+    color: white;
+}
+th a:hover {
+    color: grey;
+}
+.active {
+    color: yellow;
+}
+.table-sm {
+    margin-left: 40px;
+}
+.table-sm td {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+.table-sm th {
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: right;
+}
+span {
+    float: left;
+}
+
+.roomInfo b {
+    float: left;
+    text-align: right;
+    width: 120px;
+    margin-right: 20px;
+    margin-left: 40px;
+}
+div.roomInfo {
+    margin: 10px;
+}
+
